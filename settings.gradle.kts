@@ -1,4 +1,6 @@
-rootProject.name = "CloudstreamPlugins"
+rootProject.name = "cloudstream-extensions"
+
+include(":StreamedSu")
 
 // This file sets what projects are included.
 // All new projects should get automatically included unless specified in the "disabled" variable.
